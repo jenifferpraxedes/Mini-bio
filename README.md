@@ -1,2 +1,8 @@
-# mini-bio
-Segundo desafio do curso INPUT da Codar.me
+# Mini Bio
+
+Segundo desafio do Codar.me INPUT 🚀
+
+#📸
+
+
+![Screenshot](minibio.png)
